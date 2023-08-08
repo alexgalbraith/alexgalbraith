@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex Galbraith
-- 👀 I’m interested in small Arduino projects, Wordpress, writing browser games (e.g. in PHP) and messing with AWS
+- 👀 I’m interested in small Arduino projects, Wordpress, writing browser games (e.g. in PHP) and meddling with the cloud
 - 🌱 I’m currently learning Arduino coding
 - 📫 How to reach me: @alexgalbraith on Twitter
 
