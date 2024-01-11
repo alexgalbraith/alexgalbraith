@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Galbraith
-- 👀 I’m interested in small Arduino projects, Wordpress, writing browser games (e.g. in PHP) and meddling with the cloud
-- 🌱 I’m currently learning Arduino coding
+- 👀 I play with small Arduino projects, blogging, writing a few browser-based games, web design and meddling with the cloud
+- 🌱 Currently learning Arduino coding
 - 📫 How to reach me: @alexgalbraith on Twitter
 
 <!---
