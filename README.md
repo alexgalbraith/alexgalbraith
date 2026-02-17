@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Galbraith
-- 👀 I play with small Arduino projects, blogging, writing a few browser-based games, web design and meddling with the cloud
-- 🌱 Currently learning Vue.js front end development
+- 👀 I play with small Arduino projects, blogging, writing a few browser-based games, web design and meddling with the cloud & AI stuff
+- 🌱 Currently playing with OpenClaw
 - 📫 How to reach me: @alexgalbraith on Twitter / X
 
 <!---
